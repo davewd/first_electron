@@ -1,0 +1,14 @@
+{
+  "name": "first_electron",
+  "version": "1.0.0",
+  "description": "My first version of electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dave Dawson",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
